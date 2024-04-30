@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Ikramahfoud
-- 🌱 I’m currently learning programming languages
+- 👋 Welcome, I’m @Ikramahfoud
+- ❤️ I’m currently in love with programming languages
