@@ -1,2 +1,2 @@
-- 👋 Welcome, I’m @Ikramahfoud
+- 👋 Welcome, I’m ikram Mahfoud
 - ❤️ I’m currently in love with programming languages
